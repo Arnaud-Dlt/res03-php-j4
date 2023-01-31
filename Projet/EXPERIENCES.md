@@ -1,5 +1,0 @@
--id
--description
--company
--start_date
--end_date
